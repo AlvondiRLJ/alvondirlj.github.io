@@ -1,0 +1,3 @@
+name: Alvondi Junior
+markdown: kramdown
+#permalink: /blog/:year/:month/:day/:title # I think this is not necessary anymore, because it works without this configuration
